@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/quycong.it" target="blank"><img src="https://img.shields.io/twitter/follow/quycong.it?logo=twitter&style=for-the-badge" alt="phungquycong"  </p>
 
-- 🔭 I’m currently working on  Information Security
+- 🔭 I’m currently working on  Information Security.
 
-- 🌱 Tôi hiện đang học Cấu trúc dữ liệu & Thuật toán.
+- 🌱 I am currently studying Data Structures and Algorithms.
 
 - 👯 Tôi đang có nhu cầu cộng tác trên Youtube.
 
-- 🤔 Tôi đang tìm kiếm trợ giúp về Mã hóa cạnh tranh.
+- 🤔 I am in need of collaborating on Youtube.
 
-- 💬 Hãy hỏi tôi về Lập trình cạnh tranh, GSOC, bất kỳ nội dung nào có thật về Công nghệ.
+- 💬 Ask me about Competitive Programming,any real content about Technology.
 
 - 📫 How to reach me quycong.dev@gmail.com
 
