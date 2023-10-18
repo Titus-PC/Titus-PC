@@ -15,8 +15,6 @@
 
 - 🌱 I am currently studying Data Structures and Algorithms.
 
-- 👯 Tôi đang có nhu cầu cộng tác trên Youtube.
-
 - 🤔 I am in need of collaborating on Youtube.
 
 - 💬 Ask me about Competitive Programming,any real content about Technology.
