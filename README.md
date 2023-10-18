@@ -50,7 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Titus-PC" /></p>
 <hr/>
-<h2>🐍 Xem rắn ăn thịt đóng góp github của tôi 🐍</h2>
+<h2>🐍 See my github contribution 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <hr/>
